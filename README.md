@@ -7,4 +7,4 @@ How to use:
 2. Log in to the telegram account and talk to bot @ CrispX
 
 Examples:
-![Example](https://github.com/Cokebear7/Stock_Chatbot_telegram/master/result1.jpg)
+![Example](https://github.com/Cokebear7/Stock_Chatbot_telegram/blob/master/result1.JPG)
