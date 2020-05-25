@@ -12,3 +12,15 @@ A stock chat bot based on telegram bot, users can query stock price, trading vol
 ## Examples:
 
 <div align=center><img src=https://github.com/Cokebear7/Stock_Chatbot_telegram/blob/master/result1.jpg width=375 alt="example"/></div>
+
+### search for stock price
+
+<div align=center><img src=https://github.com/Cokebear7/Stock_Chatbot_telegram/blob/master/search_price.GIF  alt="example"/></div>
+
+### search for stock volume
+
+<div align=center><img src=https://github.com/Cokebear7/Stock_Chatbot_telegram/blob/master/search_volume.GIF  alt="example"/></div>
+
+### search for stock marketCap
+
+<div align=center><img src=https://github.com/Cokebear7/Stock_Chatbot_telegram/blob/master/search_marketCap.GIF  alt="example"/></div>
